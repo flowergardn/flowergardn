@@ -55,4 +55,8 @@ Most of my work consists of private projects, and commissions. But here's some o
 <p align="center">
   <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=astridlol&theme=chalk"/>
 </p>
+<p align="center">
+  <sub><sup><a href="https://github.com/recal">@recal</a> is a nerd 💜</sup></sub>
+</p>
 <br/><br/>
+
