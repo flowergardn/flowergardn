@@ -7,7 +7,7 @@
 <p align="center">
 I'm a full stack developer who has a deep obsession with the hyperpop, glitchcore, and lofi genres.<br/>
 Most of my work consists of a lot of backend development and miscellaneous tooling.<br/>
-I have a site over @ [astrid.sh](https://astrid.sh) :)<br/>
+I have a site over @ https://astrid.sh :)<br/>
 </p>
 
 ```
@@ -27,8 +27,8 @@ Pronouns: she/her
 <p align="center">
 Most of my work consists of private projects, and commissions. But here's some other stuff I'm currently working on:<br/>
 ◌ A feature-rich moderation discord bot with all the bells and whistles.<br/>
-◌ [Everly](https://everly.sh), a YouTube notification bot for Discord<br/>
-◌ [Keycard](https://github.com/astridlol/Keycard), an open-source Discord verification bot<br/>
+◌ Everly, a YouTube notification bot for Discord<br/>
+◌ Keycard, an open-source Discord verification bot<br/>
 </p>
 
 <h3 align="center">My Stack :)</h3><br/>
