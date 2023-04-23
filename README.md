@@ -1,5 +1,5 @@
 <p align="center">
-<img src="hearts.gif"/>
+<img src="Hearts.gif"/>
 </p>
 
 <h3 align="center"><b>Hey 👋</b></h3>
