@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Hearts.gif"/>
+<img src="hearts.gif"/>
 </p>
 
 <h3 align="center"><b>Hey 👋</b></h3>
@@ -13,8 +13,8 @@ I have a site over @ [astrid.sh](https://astrid.sh) :)<br/>
 ```
 > recent
 
-💻 Frontend → Next.js, Tailwind, Prisma, tRPC, DaisyUI
-⚙️ Backend → Typescript, Kotlin
+💻 Frontend → Next.js, Tailwind, DaisyUI
+⚙️ Backend → Typescript, Prisma, tRPC, Kotlin
 🌱 Learning → Astro
 
 > info
