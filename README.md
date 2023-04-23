@@ -1,5 +1,5 @@
 <p align="center">
-<img src="catjam.gif"/>
+<img src="hearts.gif"/>
 </p>
 
 <h3 align="center"><b>Hey 👋</b></h3>
