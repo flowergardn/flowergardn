@@ -26,8 +26,8 @@ Pronouns: she/her
 <h3 align="center">Current Projects</h3><br/>
 <p align="center">
 Most of my work consists of private projects, and commissions. But here's some other stuff I'm currently working on:<br/>
-◌ A feature-rich moderation discord bot with all the bells and whistles.<br/>
-◌ Everly, a YouTube notification bot for Discord<br/>
+◌ Dripleaf.cc, an entirely free Minecraft server hosting network<br/>
+◌ Everly, a serverless YouTube notification bot for Discord<br/>
 ◌ Keycard, an open-source Discord verification bot<br/>
 </p>
 
