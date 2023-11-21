@@ -10,8 +10,8 @@
       languages: 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">js</a>, 
       <a href="https://www.typescriptlang.org/">ts</a>, 
-      <a href="https://www.python.org/">kotlin</a>, 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">java</a>
+      <a href="https://kotlinlang.org/">kotlin</a>, 
+      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">java</a>
       <br>
       libraries: 
       <a href="https://www.prisma.io/">prisma</a>, 
