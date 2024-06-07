@@ -38,5 +38,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 2rem; left: -10rem; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/astridlol/reimagined-octo-enigma/assets/45674371/16977a4a-5c19-4df9-af7d-d70207a1cea3');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 2rem; left: -10rem; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/astridlol/astridlol/assets/45674371/4782e550-92a0-4c3b-a443-8c51752f3fe7');]{x0000}$}
 
