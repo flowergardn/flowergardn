@@ -16,6 +16,7 @@
       libraries: 
       <a href="https://www.prisma.io/">prisma</a>, 
       <a href="https://trpc.io/">trpc</a>,
+      <a href="https://orm.drizzle.team/">drizzle</a>,
       <a href="https://clerk.dev/">clerk</a>
       <br>
       systems: 
@@ -43,3 +44,8 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/852656702037164053?hideDiscrim=true" alt="Discord Presence" align="center" width="340">
   <br>
 </div>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 2rem; left: -10rem; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/astridlol/reimagined-octo-enigma/assets/45674371/16977a4a-5c19-4df9-af7d-d70207a1cea3');]{x0000}$}
+
