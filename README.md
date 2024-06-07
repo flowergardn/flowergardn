@@ -1,8 +1,4 @@
 <div align="center">
-  <p float="left">
-    <img src="/images/1.jpg" width="220" align="left">
-    <img src="/images/2.jpg" width="220" align="right">
-  </p>
   <div align="center">
     <samp>
       my stack:
@@ -23,10 +19,6 @@
       <a href="https://www.microsoft.com/en-us/windows/">windows</a>, 
       <a href="https://www.linux.org/">linux</a>
       <br>
-      databases: 
-      <a href="https://www.mongodb.com/">mongodb</a>, 
-      <a href="https://www.postgresql.org/">postgres</a>
-      <br>   
       <br>
       <br>
       cv: 
@@ -35,7 +27,6 @@
       <a href="mailto:me@astrid.sh">me@astrid.sh</a><br>
       twt: 
       <a href="https://twitter.com/maybeastrid">@maybeastrid</a><br><br>
-      inspired by <a href="https://github.com/jckli">/jckli</a> 
     </samp>
   </div>
   <img width="100px" src="https://komarev.com/ghpvc/?username=astridlol&style=flat-square&color=f079f2"/>
