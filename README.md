@@ -1,4 +1,8 @@
 <div align="center">
+  <p float="left">
+    <img src="/images/1.jpg" width="220" align="left">
+    <img src="/images/2.jpg" width="220" align="right">
+  </p>
   <div align="center">
     <samp>
       my stack:
