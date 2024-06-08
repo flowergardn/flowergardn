@@ -38,4 +38,6 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 2rem; left: -10rem; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/astridlol/everly.sh/assets/45674371/b7ad5c67-c818-4264-b546-1d7872d86686');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/astridlol/everly.sh/assets/45674371/b7ad5c67-c818-4264-b546-1d7872d86686');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
+```
