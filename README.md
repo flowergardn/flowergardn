@@ -26,7 +26,7 @@
       <br>
       <br>
       cv: 
-      <a href="https://read.cv/astrid">/astrid</a><br>
+      <a href="https://read.cv/flower">/flower</a><br>
       contact: 
       <a href="mailto:me@astrid.sh">me@astrid.sh</a><br>
       twt: 
