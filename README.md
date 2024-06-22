@@ -33,9 +33,5 @@
       <a href="https://twitter.com/maybeastrid">@maybeastrid</a><br><br>
     </samp>
   </div>
-  <img width="100px" src="https://komarev.com/ghpvc/?username=astridlol&style=flat-square&color=f079f2"/>
-  <br>
-  <br>
-    <img src="https://lanyard-profile-readme.vercel.app/api/852656702037164053?hideDiscrim=true" alt="Discord Presence" align="center" width="340">
   <br>
 </div>
