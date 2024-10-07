@@ -18,7 +18,7 @@
       links
       <br>
       <br>
-      <a href="https://github.com/flowergardn">github</a> ~ <a href="https://astrid.sh">website</a> ~ <a href="https://github.com/sponsors/flowergardn">sponsor</a>
+      <a href="https://astrid.sh">about me</a> ~ <a href="https://read.cv/astrid">projects & experience</a>
     </samp>
   </div>
   <br>
